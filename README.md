@@ -1,0 +1,1 @@
+Modifiez le fichier process.php pour configurer le sdk avec vos clés d'API et votre cloud name.
